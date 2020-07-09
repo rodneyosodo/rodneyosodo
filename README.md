@@ -17,10 +17,6 @@ Hi, I'm Rodney 🤓. I'm a Mechatronics engineer student 👨🏽‍🎓 whose i
 - 📝 Write research papers
 - Build a toy OS in rust
 
-### Ways of working together
-- 😶 Silence is key
-- ☑️ Checklists are my favourite
-
 ### Technical preferences
 Vsocde over Pycharm, Kite over autocomplete, Make over shell scripts, Rust over Go, Brave over chrome, LTS over current release
 
