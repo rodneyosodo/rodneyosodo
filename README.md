@@ -9,7 +9,6 @@ Hi, I'm Rodney 🤓. I'm a Mechatronics engineer student 👨🏽‍🎓 whose i
 - 📚 I’m currently learning Quantum Computing
 - 👨‍💻 I’m looking to collaborate on any image processing projects
 - 🤔 I’m looking for help with embedded rust
-- 💬 Ask me anything about engineering 👨‍🔧
 - Hobbies: 🖃, 🏓, 🃏, ⚽️, 🚶, Checkers
 - Interests: 🏹, 🧗‍♂️, Blokus, Eletcronics
 
@@ -24,7 +23,6 @@ Hi, I'm Rodney 🤓. I'm a Mechatronics engineer student 👨🏽‍🎓 whose i
 
 ### Technical preferences
 Vsocde over Pycharm, Kite over autocomplete, Make over shell scripts, Rust over Go, Brave over chrome, LTS over current release
-
 
 ### Find me around the web 🌍
 * Sharing updates on [Twitter](https://twitter.com/b1ackd0t)
