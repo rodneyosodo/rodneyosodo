@@ -1,16 +1,37 @@
-### Hi there 👋
+## Hello there 👋
 
 <!--
 **0x6f736f646f/0x6f736f646f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+Hi, I'm Rodney aka ⓿🅧➏🅕➐➌➏🅕➏➍➏🅕 🤓. I'm a Mechatronics engineer student 👨🏽‍🎓 whose is passionate about collaborating to make open-source better.
+
+- 🛠 I’m currently working on [Africastalking eris dev kit](https://github.com/0x6f736f646f/africastalking-eris-devkit-playground)
+- 📚 I’m currently learning Quantum Computing
+- 👨‍💻 I’m looking to collaborate on any image processing projects
+- 🤔 I’m looking for help with embedded rust
+- 💬 Ask me anything about engineering 👨‍🔧
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: ✍
+- Hobbies: 🖃, 🏓, 🃏, ⚽️, 🚶, Checkers
+- Interests: 🏹, 🧗‍♂️, Blokus, Eletcronics
+
+### Learning goals
+- 🤔 Understand quantum machine learning
+- 👨‍🔧 Simulate kinematic systems
+
+### Career goals
+- 📝 Write research papers
+- Build a toy OS in rust
+
+### Ways of working together
+- 😶 Silence is key
+- ☑️ Checklists are my favourite
+
+### Technical preferences
+Vsocde over Pycharm, Kite over autocomplete, Make over shell scripts, Rust over Go, Brave over chrome, LTS over current release
+
+
+### Find me around the web 🌍
+* Sharing updates on [Twitter](https://twitter.com/b1ackd0t)
+* Showcasing projects on [Youtube](https://www.youtube.com/channel/UCQXcsxyoKSaaWPd5YY9rf4A)
+* Silent on [Instagram](https://www.instagram.com/_r0nn1e/)
