@@ -3,7 +3,7 @@
 <!--
 **0x6f736f646f/0x6f736f646f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi, I'm Rodney 🤓. I'm a Mechatronics engineer student 👨🏽‍🎓 whose is passionate about collaborating to make open-source better.
+Hi, I'm Rodney 🤓. I'm a Mechatronics engineer student 👨🏽‍🎓 who is passionate about collaborating to make open-source better.
 
 - 🛠 I’m currently working on [Africastalking eris dev kit](https://github.com/0x6f736f646f/africastalking-eris-devkit-playground)
 - 📚 I’m currently learning Quantum Computing
