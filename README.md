@@ -18,7 +18,7 @@ Hi, I'm Rodney 🤓. I'm a Mechatronics engineer student 👨🏽‍🎓 who is 
 - Build a toy OS in rust
 
 ### Technical preferences
-Vsocde over Pycharm, Kite over autocomplete, Make over shell scripts, Rust over Go, Brave over chrome, LTS over current release
+Vscode over Pycharm, Kite over autocomplete, Make over shell scripts, Rust over Go, Brave over chrome, LTS over current release
 
 ### Find me around the web 🌍
 * Sharing updates on [Twitter](https://twitter.com/b1ackd0t)
