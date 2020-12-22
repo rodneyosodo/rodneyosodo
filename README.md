@@ -5,9 +5,9 @@
 -->
 Hi, I'm Rodney 🤓. I'm a Mechatronics engineer student 👨🏽‍🎓 who is passionate about collaborating to make open-source better.
 
-- 🛠 I’m currently working on [Africastalking eris dev kit](https://github.com/0x6f736f646f/africastalking-eris-devkit-playground)
+- 🛠 I’m currently working on [Variational Quantum Classifier](https://github.com/0x6f736f646f/variational-quantum-classifier-on-heartattack)
 - 📚 I’m currently learning Quantum Computing
-- 👨‍💻 I’m looking to collaborate on any image processing projects
+- 👨‍💻 I’m looking to collaborate on any quantum projects
 - 🤔 I’m looking for help with embedded rust
 - Hobbies: 🖃, 🏓, 🃏, ⚽️, 🚶, Checkers
 - Interests: 🏹, 🧗‍♂️, Blokus, Eletcronics
