@@ -5,8 +5,8 @@
 -->
 Hi, I'm Rodney 🤓. I'm a Mechatronics engineer student 👨🏽‍🎓 who is passionate about collaborating to make open-source better.
 
-- 🛠 I’m currently working on [Variational Quantum Classifier](https://github.com/0x6f736f646f/variational-quantum-classifier-on-heartattack)
-- 📚 I’m currently learning Quantum Computing
+- 🛠 I’m currently working on [Nakuja rocket under Airframe](https://github.com/nakujaproject/)
+- 📚 I’m currently learning Rocket Science
 - 👨‍💻 I’m looking to collaborate on any quantum projects
 - 🤔 I’m looking for help with embedded rust
 - Hobbies: 🖃, 🏓, 🃏, ⚽️, 🚶, Checkers
