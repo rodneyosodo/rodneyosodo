@@ -1,16 +1,17 @@
-## Hello there 👋
+# Hello there 👋
 
-<!--
-**0x6f736f646f/0x6f736f646f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Hi, I'm Rodney 🤓. I'm a Mechatronics engineering student 👨🏽‍🎓 who is passionate about collaborating to make open-source better.
+Hello, I'm Rodney 🤓, a passionate software engineer 👨🏽‍🎓 dedicated to improving the open-source community through collaboration.
 
-- 🛠 I’m currently working on [Nakuja Rocket](https://github.com/nakujaproject/) and [Mainflux IoT Platform](https://github.com/mainflux/mainflux)
-- Interests: Distributed systems, Quantum Machine Learning, Electronics and Anything to do with rockets
+- 🛠 I’m currently working on [Mainflux IoT Platform](https://github.com/mainflux/mainflux)
+- Interests: Distributed Computing, Quantum Computing, Confidential Computing and anything to deal with Electronics
 
-### Goals
-- 👨‍🔧 Simulate kinematic systems
-- Build an Mpesa overlay system
+## Goals
 
-### Technical preferences
-Zsh over Bash, Vscode over Goland, Kite over autocomplete, Make over shell scripts, Go over Python, Brave over chrome, LTS over current release
+- Continuous learning and professional growth
+- Sharing knowledge and experiences through blogging and public speaking
+
+## Technical preferences
+
+Zsh over Bash, Vscode over Goland, Make over shell scripts, Brave over Chrome, LTS over current release
+
+Let's make the world of open-source better together! 🚀
