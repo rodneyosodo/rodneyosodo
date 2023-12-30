@@ -2,7 +2,7 @@
 
 Hello, I'm Rodney 🤓, a passionate software engineer 👨🏽‍🎓 dedicated to improving the open-source community through collaboration.
 
-- 🛠 I’m currently working on [Mainflux IoT Platform](https://github.com/mainflux/mainflux)
+- 🛠 I’m currently working on [Magistrala IoT Platform](https://github.com/absmach/magistrala)
 - Interests: Distributed Computing, Quantum Computing, Confidential Computing and anything to deal with Electronics
 
 ## Goals
